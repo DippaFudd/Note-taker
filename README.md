@@ -61,3 +61,6 @@ To install the necessary dependencies, follow these steps:
 ## Screenshots
 ![Image Alt](https://github.com/DippaFudd/Note-taker/blob/0285b43946162ff66f8cf64caae313d2b40fb5ae/2025-03-18.png)
 ![Image Alt](https://github.com/DippaFudd/Note-taker/blob/0285b43946162ff66f8cf64caae313d2b40fb5ae/2025-03-18%20(1).png)
+
+## Application
+[Website](https://note-taker-uddw.onrender.com)
